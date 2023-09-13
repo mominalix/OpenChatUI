@@ -63,4 +63,3 @@ OpenChatUI is highly customizable. You can modify the appearance, behavior, and 
 
 For questions, suggestions, or issues, please feel free to [contact me](mailto:mominalix@gmail.com).
 
-```
