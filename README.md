@@ -53,7 +53,6 @@ OpenChatUI is highly customizable. You can modify the appearance, behavior, and 
 
 - Styling: Customize colors, fonts, and layouts to match your application's design.
 - Integration: Integrate OpenChatUI with your existing Python chat application.
-- Simulated Chat: Modify the `simulate_chat` function in `main.py` to simulate different chat conversations for your demos.
 
 ## Contact
 
