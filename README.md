@@ -16,7 +16,7 @@ Follow the instructions below to compile, run, and customize the OpenChatUI proj
 ### Prerequisites
 
 - Python 3.x
-- customtkinter library 
+- streamlit library 
 
 ### Installation
 
@@ -27,10 +27,10 @@ Follow the instructions below to compile, run, and customize the OpenChatUI proj
    cd OpenChatUI
    ```
 
-2. Install the required customtkinter library using pip:
+2. Install the required streamlit library using pip:
 
    ```bash
-   pip install customtkinter
+   pip install streamlit
    ```
 
 ### Usage
@@ -38,7 +38,7 @@ Follow the instructions below to compile, run, and customize the OpenChatUI proj
 1. Run the OpenChatUI application:
 
    ```bash
-   python main.py
+   streamlit run main.py
    ```
 
 2. The application will open, displaying a simple chat interface with a chat history, message input field, and send button.
@@ -54,10 +54,6 @@ OpenChatUI is highly customizable. You can modify the appearance, behavior, and 
 - Styling: Customize colors, fonts, and layouts to match your application's design.
 - Integration: Integrate OpenChatUI with your existing Python chat application.
 - Simulated Chat: Modify the `simulate_chat` function in `main.py` to simulate different chat conversations for your demos.
-
-## Acknowledgments
-
-- [customtkinter](https://github.com/TitusKirch/customtkinter) - A custom theme for tkinter-based applications.
 
 ## Contact
 
