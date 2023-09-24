@@ -1,6 +1,6 @@
 # OpenChatUI
 
-OpenChatUI is an open-source Chat UI frontend project designed to be easily integrated and customized for various chat-related projects in Python. The primary goal of this project is to provide a user-friendly and customizable chat interface that allows developers to quickly create chat demonstrations for their applications.
+OpenChatUI is an open-source Chat UI frontend project designed to be easily integrated and customized for various chat-related projects in Python using Streamlit library. The primary goal of this project is to provide a user-friendly and customizable chat interface that allows developers to quickly create chat demonstrations for their applications.
 
 ## Features
 
